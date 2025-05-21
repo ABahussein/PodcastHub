@@ -46,6 +46,11 @@ body{
     -ms-border-radius: 20px;
     -o-border-radius: 20px;
     margin: 0 5px;
+    cursor: pointer;
+}
+.heading .menu-button .filter-btn:hover{
+    color: var(--heading-color);
+    background: rgb(210, 200, 200);
 }
 
 
